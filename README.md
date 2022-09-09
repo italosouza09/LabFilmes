@@ -62,7 +62,7 @@ Esta é uma Case de Front-end, realizada através do Bootcamp da Labenu com intu
 
 ## 🔗Link para Acessar
 
-- ** labfilmes4.surge.sh **
+- ** [LabFilmes](labfilmes4.surge.sh) **
 
 ---
 
