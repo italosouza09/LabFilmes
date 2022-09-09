@@ -34,8 +34,8 @@ Projeto Front-end realizado através de React.js com tecnologias como axios, rou
    * [Sobre a Licença](#sobre-a-licença)
 <!--te-->
 
-
 ---
+
 ##  🧭Status do Projeto
 
  - ⏳ Fazendo
@@ -48,6 +48,7 @@ Projeto Front-end realizado através de React.js com tecnologias como axios, rou
 
 Esta é uma Case de Front-end, realizada através do Bootcamp da Labenu com intuito de comprovação de capacidade.
 
+---
 
 ## ☑️Requisitos de Funcionalidade
 
@@ -68,7 +69,7 @@ Esta é uma Case de Front-end, realizada através do Bootcamp da Labenu com intu
 
 ## ScreenShots
 
--** [](../main/screenshots/ScreenShot_20220909152331.png)
+-** [principal](../main/screenshots/ScreenShot_20220909152331.png)
 
 
 ---
