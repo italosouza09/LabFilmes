@@ -10,14 +10,13 @@
 
 ##  🕵Sobre
 
-Projeto Front-end realizado através de Rect.js com tecnologias como axios, router, styled-components, mui.
+Projeto Front-end realizado através de React.js com tecnologias como axios, router, styled-components, mui...
 
 
 ---
 
 ## 👨🏻🏾Quem Faz 
 
-- 
 - Italo souza
 
 
@@ -82,3 +81,4 @@ Para Rodar o projeto, siga as seguintes etapas :
 ## 📝Sobre a Licença
 
 Com licença. certo pode passar
+Apache 2.0
