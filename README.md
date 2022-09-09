@@ -70,7 +70,9 @@ Esta é uma Case de Front-end, realizada através do Bootcamp da Labenu com intu
 ## ScreenShots
 
 -** <img src="https://github.com/italosouza09/LabFilmes/blob/main/screenshots/ScreenShot_20220909152331.png" alt="principal"/>
-
+-** <img src="https://github.com/italosouza09/LabFilmes/blob/main/screenshots/ScreenShot_20220909152406.png" alt="TV">
+-** <img src="https://github.com/italosouza09/LabFilmes/blob/main/screenshots/ScreenShot_20220909152534.png" alt="Filters">
+-** <img src="https://github.com/italosouza09/LabFilmes/blob/main/screenshots/ScreenShot_20220909152559.png" alt="pagination">
 
 ---
 
