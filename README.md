@@ -69,7 +69,7 @@ Esta é uma Case de Front-end, realizada através do Bootcamp da Labenu com intu
 
 ## ScreenShots
 
--** [principal](../main/screenshots/ScreenShot_20220909152331.png)
+-** [principal](https://github.com/italosouza09/LabFilmes/blob/main/screenshots/ScreenShot_20220909152331.png)
 
 
 ---
